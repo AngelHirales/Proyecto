@@ -25,6 +25,9 @@ const Header = () => {
             <li className='p-2 bg-slate-200 rounded-md cursor-pointer hover:bg-black hover:text-white'>
               <Link href={'/ejercicio05'}>Ejercicio 05</Link>
             </li>
+            <li className='p-2 bg-slate-200 rounded-md cursor-pointer hover:bg-black hover:text-white'>
+              <Link href={'/ejercicioExtra'}>Ejercicio Extra</Link>
+            </li>
         </ul>
     </nav>
 
