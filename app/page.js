@@ -4,7 +4,7 @@ const HomePage = () => {
   return (    
     <main>
       <div>
-        <h1 className='p-4 text-center'>Pagina de inicio</h1>
+        <h1 className='p-4 text-center'>Pagina A</h1>
       </div>
     </main>
   )
